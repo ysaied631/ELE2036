@@ -1,1 +1,1 @@
-Start of git
+Start of git.
